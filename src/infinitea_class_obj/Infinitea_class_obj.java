@@ -11,6 +11,13 @@ package infinitea_class_obj;
  */
 public class Infinitea_class_obj {
 
+    public class Customter {
+        //declarig instance of a variable
+       int customerID;
+       String customerName;
+       String customerAddress;
+       int customerAge;
+    }
     /**
      * @param args the command line arguments
      */
